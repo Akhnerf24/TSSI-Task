@@ -15,7 +15,7 @@ export default () => ({
     "languages": [ "Ruby", "JavaScript", "Go","YAML","SQL", "HTML", "CSS" ],
     "web": [ "Ruby on Rails", "React", "Express.js", "Node.js", "jQuery", 
              "WebPack", "Babel", "Axios", "Bootstrap", "UIKit CSS" ],
-    "databases": [ "PostgreSQL", "MariaDB/MySQL" ],
+    "databases": [ "PostgreSQL", "MariaDB/MySQL", "Galera Cluster" ],
     "applications": [ "Adobe CC", "Microsoft Office" ],
     "toolchains": [ "NPM", "Yarn", "Docker" ],
     "devOps": [ "Git", "Github Action" ],
